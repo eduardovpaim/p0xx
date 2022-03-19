@@ -4,6 +4,8 @@
 
 ![p0xx GitHub stats](https://github-readme-stats.vercel.app/api?username=p0xx&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p0xx)](https://github.com/p0xx/github-readme-stats)
+
 ### Tecnologias que eu uso no meu dia 🖥️
 
 <div style= "display: inline_block"><br/>
