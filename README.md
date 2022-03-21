@@ -1,4 +1,4 @@
-### Olá! Eu sou o Eduardo paim ✋
+### Oi! Eu sou o Eduardo ✋
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-paim-6b5a05230/)
 
